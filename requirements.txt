@@ -1,0 +1,3 @@
+google-generativeai
+streamlit
+# 他に必要なパッケージがあればここに追記
